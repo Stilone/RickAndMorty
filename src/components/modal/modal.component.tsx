@@ -48,7 +48,7 @@ export const ModalComponent: React.FC<iModalProps> = ({value, handleClose, open}
                         Race: {value.species}
                     </Typography>
                     <Typography variant="body1" color="text.secondary">
-                        Planet: {value.origin?.name}
+                        Origin: {value.origin?.name}
                     </Typography>
                     <Typography variant="body1" color="text.secondary">
                         Location: {value.location?.name}

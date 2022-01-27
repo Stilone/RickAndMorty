@@ -5,7 +5,7 @@ import {Content, RequestFailed} from './characters.styles';
 import {getCharacter} from '../../api/characters';
 import {iCharacter} from '../../types/character';
 import {Loading} from '../loading/loading.component';
-import {CardsCharacters} from '../cards.characters/cards.characters.component';
+import {CharacterCards} from '../cards.characters/character.cards.component';
 import {Filters} from '../filter/filter.component';
 import {iFilter} from '../../types/filter';
 import {ModalComponent} from '../modal/modal.component';
@@ -78,11 +78,10 @@ export const CharactersComponent = () => {
             {
                 isLoading ? <Loading/>
                     : isError ? <RequestFailed>Ошибка: {error && error.message}</RequestFailed>
-                    : open ? <div>
-                    {character && <ModalComponent value={character} open={open} handleClose={handleClose}/>}
-                    <CardsCharacters value={value} openModal={openModal}/>
+                    : <div>
+                            {character && <ModalComponent value={character} open={open} handleClose={handleClose}/>}
+                            <CharacterCards value={value} openModal={openModal}/>
                     </div>
-                    : <CardsCharacters value={value} openModal={openModal}/>
             }
         </Content>
     );

@@ -1,15 +1,11 @@
 import styled from 'styled-components';
-import Card from '@mui/material/Card';
+import Grid from '@mui/material/Grid';
+import {Container} from "@mui/material";
 
-export const Characters = styled.div`
-  z-index: 1;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-evenly;
-  width: 900px;
+export const Characters = styled(Container)`
   margin-top: 20px;
 `;
 
-export const CardCharacter = styled(Card)`
-  margin-top: 20px;
+export const Card = styled(Grid)`
+  background-color: white;
 `;
