@@ -40,7 +40,6 @@ This project marked the culmination of my self-directed learning journey. Subseq
 
 Remember, `The journey of a thousand miles begins with one step.`
 
-
 ---
 
 Happy reading! 📚😊✨
