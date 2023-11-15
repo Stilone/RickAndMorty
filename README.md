@@ -38,7 +38,7 @@ In this project, I implemented server requests to retrieve characters from the R
 
 This project marked the culmination of my self-directed learning journey. Subsequently, I delved deep into theoretical concepts, eventually landing a position in a company. If you've made it this far and explored all my projects, you're doing great! To any aspiring developer, I encourage you not to give up and pursue your goals, just as I did. Best of luck!
 
-Remember, "The journey of a thousand miles begins with one step."
+Remember, `The journey of a thousand miles begins with one step.`
 
 
 ---
