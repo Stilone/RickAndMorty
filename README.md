@@ -1,6 +1,6 @@
 # Rick and Morty
 
-Rick and Morty is an application dedicated to showcasing characters from the renowned Rick and Morty TV series, with a sophisticated filtering feature.
+Rick and Morty is an application dedicated to showcasing characters from the renowned Rick and Morty TV series.
 
 ## Technologies Used
 - **React:** A JavaScript library employed for constructing interactive user interfaces. 💻
