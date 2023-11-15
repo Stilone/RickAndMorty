@@ -45,4 +45,4 @@ Remember, `The journey of a thousand miles begins with one step.`
 
 Happy reading! 📚😊✨
 
-<img align="left" height="300" width="375" alt="" src="https://media.giphy.com/media/1USKMDPjuH4ovL7J5h/giphy.gif"/>
+<img align="left" height="280" width="355" alt="" src="https://media.giphy.com/media/1USKMDPjuH4ovL7J5h/giphy.gif"/>
