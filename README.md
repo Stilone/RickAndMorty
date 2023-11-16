@@ -3,13 +3,14 @@
 Rick and Morty is an application dedicated to showcasing characters from the renowned Rick and Morty TV series.
 
 ## Technologies Used
-- **React:** A JavaScript library employed for constructing interactive user interfaces. 💻
-- **React-hooks:** A fundamental aspect of React, enabling state management and other features in functional components. 🎣
-- **React-Query:** A library facilitating effective server state management in React applications. 🔄
-- **TypeScript:** A superset of JavaScript, adding static types to enhance code reliability. 📝
-- **API:** Integration with external APIs for seamless data retrieval and manipulation. 🌐
-- **Styled-components:** A styling library utilizing tagged template literals to enhance component styling. 💅
-- **Material-UI:** A widely-used React UI framework, providing a foundation for responsive and visually appealing user interfaces. 🎨
+- **React** 💻
+- **React-hooks** 🎣
+- **React-Query** 🔄
+- **TypeScript** 📝
+- **API** 🌐
+- **Styled-components**  💅
+- **Material-UI** 🎨
+- **Webpack** 💻
 
 ## Getting Started:
 To run the application locally, follow these simple steps.
