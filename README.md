@@ -2,7 +2,7 @@
 
 Rick and Morty is an application dedicated to showcasing characters from the renowned Rick and Morty TV series.
 
-## Technologies Used
+## Technologies Used:
 - **React** 💻
 - **React-hooks** 🎣
 - **React-Query** 🔄
