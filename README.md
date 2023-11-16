@@ -11,15 +11,21 @@ Rick and Morty is an application dedicated to showcasing characters from the ren
 - **Styled-components:** A styling library utilizing tagged template literals to enhance component styling. 💅
 - **Material-UI:** A widely-used React UI framework, providing a foundation for responsive and visually appealing user interfaces. 🎨
 
-## Getting Started
-To run the application locally, follow these simple steps:
+## Getting Started:
+To run the application locally, follow these simple steps.
 
-## How to Run the Project
+You can either follow the link:
+ 
+🌐 --- 🌐
+
+Or expand the project your computer:
 
 1. Clone the repository: `git clone https://github.com/Stilone/RickAndMorty.git`
 2. Navigate to the project directory: `cd RickAndMorty`
 3. Install dependencies: `npm install`
 4. Start the project: `npm start`
+
+## Screenshots:
 
 ### Main Page
 ![image](https://github.com/Stilone/RickAndMorty/assets/54247765/fd180191-9d9a-4ac7-af60-694f5685974c)
